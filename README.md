@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> About Me
+Aspiring Python Developer and Data Analyst passionate about solving problems using data.<br>🔭 I’m currently working on<br><br>Purchase Pattern Analysis using Market Basket Analysis to identify customer buying behavior and product associations using Python.<br><br>👯 I’m looking to collaborate on<br><br>Data analysis, Python-based projects, and open-source projects related to data science and machine learning.<br><br>🤝 I’m looking for help with<br><br>Improving my Python development skills, machine learning techniques, and building real-world data projects.<br><br>🌱 I’m currently learning<br><br>Advanced Python, Machine Learning, Data Visualization, and improving my problem-solving skills.<br><br>💬 Ask me about<br><br>Python, Data Analysis, Market Basket Analysis, Power BI dashboards, and data visualization.<br><br>⚡ Fun fact<br><br>I enjoy discovering hidden insights in data and turning raw data into meaningful stories through visualization.<br><br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushii.bhatt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushi-bhatt-99a120265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushibhatt917@gmail.com) 
