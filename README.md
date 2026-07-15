@@ -38,7 +38,6 @@ AI Automations — I design and build automation workflows that connect apps (Sl
 
 **Portfolio**
 - [portfolio](https://github.com/rushibhatt09/portfolio)
-- [Portfolio-](https://github.com/rushibhatt09/Portfolio-)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushii.bhatt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushi-bhatt-99a120265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushibhatt917@gmail.com) 
