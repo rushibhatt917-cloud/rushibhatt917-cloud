@@ -17,7 +17,28 @@ Here are some ideas to get you started:
 AI Automations — I design and build automation workflows that connect apps (Slack, Google Sheets, spreadsheets) with AI models to handle real operational work end-to-end.<br><br>🔭 I’m currently working on<br><br>Automation workflows built with n8n that combine Slack, Google Sheets, and Claude (Anthropic) to catch data mismatches and route them through human-in-the-loop review.<br><br>👯 I’m looking to collaborate on<br><br>AI-powered automation projects — workflow orchestration, LLM-integrated pipelines, and tools that remove manual ops work.<br><br>🤝 I’m looking for help with<br><br>Scaling automation patterns, prompt design for reliable structured outputs, and best practices for production-grade agentic workflows.<br><br>🌱 I’m currently learning<br><br>Advanced workflow orchestration, LLM tool-use patterns, and building more robust human-in-the-loop automations.<br><br>💬 Ask me about<br><br>n8n, Slack API integrations, Claude/LLM-powered automation, and workflow design.<br><br>⚡ Fun fact<br><br>I enjoy turning manual, error-prone ops processes into automations that just quietly do the job.<br><br><br>
 
 ## 🚀 Projects
+
+**Automation & AI**
 - [slack-order-audit-automation](https://github.com/rushibhatt09/slack-order-audit-automation) — n8n + Slack + Claude workflow that reconciles order sheets against Slack conversations and flags payment mismatches for human review.
+- [n8n-helper](https://github.com/rushibhatt09/n8n-helper) — Self-hosted search + AI assistant for n8n node config, API integrations, and LLM/agent workflows.
+- [excel-automation-templates](https://github.com/rushibhatt09/excel-automation-templates) — Free no-code Excel/Google Sheets templates for courier billing audits, payment gateway TDR audits, and box-fit checks.
+- [ai-ops](https://github.com/rushibhatt09/ai-ops)
+- [Agent-lab](https://github.com/rushibhatt09/Agent-lab)
+- [Transit-ops](https://github.com/rushibhatt09/Transit-ops)
+- [Logistic-all-in-one](https://github.com/rushibhatt09/Logistic-all-in-one)
+- [Telegram-Atomation-](https://github.com/rushibhatt09/Telegram-Atomation-)
+- [DigiStock-APP---Odoo--Hackathon](https://github.com/rushibhatt09/DigiStock-APP---Odoo--Hackathon)
+- [AWS-Hacakthon](https://github.com/rushibhatt09/AWS-Hacakthon)
+
+**Data Analysis & SQL**
+- [Netflix-movie-analysis](https://github.com/rushibhatt09/Netflix-movie-analysis) — Analysis of 9,800+ Netflix movies using Python, Pandas, Matplotlib and Seaborn. Covers genre trends, popularity, ratings and language distribution.
+- [SQL-Movie-database-Analysis](https://github.com/rushibhatt09/SQL-Movie-database-Analysis) — SQL project analyzing movies, directors, and ratings.
+- [sql--Healthcare-project](https://github.com/rushibhatt09/sql--Healthcare-project) — My first SQL data analysis project.
+- [Fast-Food-Analysis](https://github.com/rushibhatt09/Fast-Food-Analysis)
+
+**Portfolio**
+- [portfolio](https://github.com/rushibhatt09/portfolio)
+- [Portfolio-](https://github.com/rushibhatt09/Portfolio-)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushii.bhatt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushi-bhatt-99a120265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushibhatt917@gmail.com) 
